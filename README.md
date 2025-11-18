@@ -5,3 +5,5 @@
 **Dataset_Personal_Rosa_Silva descripciòn:** En el codigo importe la libreria pandas para poder trabajar con el archivo de datos. luego carge el dataset en una variable llamada data, despues calcule cuantas filas y cuantas columnas tenia el dataset y tambien mostre los nombres de las columnas, y luego en el segundo codigo de nueva columna volvi a cargar el dataset donde puse que apareciera "nuevooo" en todas las filas. 
 
 **Analisis_exploratorio_Rosa_Silva** En este proyecto cargué el archivo CSV, revisé sus datos y creé nuevas columnas para calcular y clasificar el saldo de los clientes. Luego apliqué filtros para analizar grupos específicos y utilicé groupby para obtener promedios y conteos.
+
+**Exploracion_Dataset_Personal_Rosa_Silva** utilicé funciones básicas como head(), tail(), shape(), info() y describe() para analizar su estructura, tipos de datos y valores estadísticos y creé una nueva columna para agregar más información útil.
