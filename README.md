@@ -11,3 +11,5 @@
 **Mini proyecto: Dasboard_Personal** en este codigo se analizaron los datos por mes usando post_time y se crearon gráficos para visualizar publicaciones, likes y comentarios mensuales. También se compararon likes y shares por mes y se calculó el promedio de shares según el tipo de publicación. Todos los gráficos se hicieron con matplotlib y se guardaron con plt.savefig() antes de mostrarlos.
 
 **Dashboard_completo_Rosa_Silva** Este proyecto muestra cómo transformar datos simples en visualizaciones útiles. Permite identificar patrones que ayudan a mejorar decisiones de negocio como promociones, inventario o estrategias de marketing. utilize de referencia un dataset de una cafeteria.
+
+**Proyecto:_Análisis_Visual_Completo_Rosa_Silva** hize un dashboard de consumo de energía Seaborn. Se organizaron los datos por país y se agruparon los años en periodos de 8. Se crearon varios gráficos (boxplot, violinplot, barplot, lineplot, heatmap e histograma) para mostrar cómo ha cambiado el uso de energía, y se pusieron juntos en subplots, guardando la imagen en alta calidad.
